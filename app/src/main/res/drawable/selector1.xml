@@ -1,0 +1,20 @@
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@drawable/ic_image_pink"
+        android:state_focused="true"
+        android:state_pressed="true"/>
+    <item
+        android:drawable="@drawable/ic_image_pink"
+        android:state_focused="false"
+        android:state_pressed="true"/>
+    <item
+        android:drawable="@drawable/ic_image_black_24dp"
+        android:state_focused="true"
+        android:state_pressed="false"/>
+    <item
+        android:drawable="@drawable/ic_image_black_24dp"
+        android:state_focused="false"
+        android:state_pressed="false"/>
+</selector>

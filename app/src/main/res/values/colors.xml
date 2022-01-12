@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#455cde</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#c2bdbf</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorWhite">#fff</color>
+
+
+    <color name="colorTest">#141818</color>
+    <color name="test">#212121</color>
+    <color name="grey">#D3D3D3	</color>
+
+    <color name="colorP"> #3F51B5 </color>
+    <color name="colorD">#292b3d</color>
+    <color name="grayLight">#fafafa</color>
+    <color name="endBlue">#0bcce6</color>
+    <color name="starblue"> #09c6df </color>
+    <color name="colorA">#FF4081</color>
+
+    <color name="splashPrimary">#3f51b5</color>
+    <color name="splashDark">#273833</color>
+    <color name="splashBlack">#000</color>
+    <color name="splashOrange">#CABFAB</color>
+
+    <color name="splashOrangeDark">#ebd6ab</color>
+    <color name="splashAccent">#ff4081</color>
+
+    <color name="profilePrimary">#ffffff</color>
+    <color name="profileDark">#241333</color>
+    <color name="profileAccent">#d81b60</color>
+    <color name="profileLayerBack">#8a56ab</color>
+    <color name="profileBack">#241333</color>
+    <color name="profileTitle">#362742</color>
+    <color name="profileSubtitle">#c5c9cf</color>
+    <color name="profileWhite">#ffffff</color>
+    <color name="profileSubtitleWhite">#b795ce</color>
+
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+    <color name="xd">#2FBBF0</color>
+
+
+    <!-- colors for tab and screent text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+
+    <color name="purple_500">#9C27B0</color>
+    <color name="deep_purple_500">#673AB7</color>
+    <color name="indigo_500">#3F51B5</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="cyan_500">#00BCD4</color>
+    <color name="light_blue_500">#03A9F4</color>
+    <color name="pink">#AB12DB</color>
+
+
+</resources>

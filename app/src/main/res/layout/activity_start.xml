@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StartActivity"
+    android:orientation="vertical"
+    android:background="@color/colorBlack">
+    <LinearLayout
+        android:id="@+id/l1"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="230dp"
+            android:fontFamily="cursive"
+            android:text="Tribo"
+            android:textColor="@color/splashOrange"
+            android:textSize="92dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:textColor="@color/splashOrange"
+            android:layout_width="398dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="100dp"
+            android:text="Connected creativity."
+            android:textAlignment="center"
+            android:textSize="17dp"
+            android:layout_marginTop="10dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/l2"
+        android:layout_width="408dp"
+        android:layout_height="976dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:background="@color/colorBlack"
+        android:orientation="vertical">
+
+        <ProgressBar
+            android:id="@+id/buttonsub"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="50dp" />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>
